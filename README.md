@@ -1,1 +1,2 @@
-# newtons-toy
+# MatterJSBoilerPlate
+MatterJSBoilerPlate
